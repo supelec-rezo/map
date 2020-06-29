@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.330938,
+          -6.246632
+        ]
+      },
+      "properties": {
+        "pseudo": "Fitz",
+        "name": "Victor Fauth",
+        "promo": "2019",
+        "last_update": "2019-02-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.9233333,
+          2.445
+        ]
+      },
+      "properties": {
+        "pseudo": "redlink",
+        "name": "Romain Poirot",
+        "promo": "2019",
+        "last_update": "2019-02-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.707930,
+          2.161854
+        ]
+      },
+      "properties": {
+        "pseudo": "Frost",
+        "name": "Hugo Waltsburger",
+        "promo": "2019",
+        "last_update": "2019-03-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.507351,
+          -0.127758
+        ]
+      },
+      "properties": {
+        "pseudo": "Froux",
+        "name": "François d'Yvoire",
+        "promo": "2019",
+        "last_update": "2019-04-02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.742217,
+          139.687067
+        ]
+      },
+      "properties": {
+        "pseudo": "warp",
+        "name": "Sylvain Pascou",
+        "promo": "2018",
+        "last_update": "2018-07-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.89511,
+          2.2730
+        ]
+      },
+      "properties": {
+        "pseudo": "toadjaune",
+        "name": "Arnaud Venturi",
+        "promo": "2017",
+        "last_update": "2018-10-26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.10853,
+          -1.67051
+        ]
+      },
+      "properties": {
+        "pseudo": "tyreunom",
+        "name": "Julien Lepiller",
+        "promo": "2016",
+        "last_update": "2016-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6171465,
+          7.0706538
+        ]
+      },
+      "properties": {
+        "pseudo": "BackIsBachus",
+        "name": "Jean-Sébastien Renaud",
+        "promo": "2016",
+        "last_update": "2020-06-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.823558,
+          2.371982
+        ]
+      },
+      "properties": {
+        "pseudo": "zeroNounours",
+        "name": "Gauthier Sebaux",
+        "promo": "2016",
+        "last_update": "2017-01-24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.714577,
+          2.232761
+        ]
+      },
+      "properties": {
+        "pseudo": "Altay",
+        "name": "Nicolas Audebert",
+        "promo": "2015",
+        "last_update": "2018-07-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.604652,
+          1.444209
+        ]
+      },
+      "properties": {
+        "pseudo": "tetram",
+        "name": "Guillaume Dhainaut",
+        "promo": "2015",
+        "last_update": "2016-09-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.7451216,
+          2.30184
+        ]
+      },
+      "properties": {
+        "pseudo": "Ningirsu",
+        "name": "Sélim Menouar",
+        "promo": "2015",
+        "last_update": "2016-06-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.380086,
+          17.901535
+        ]
+      },
+      "properties": {
+        "pseudo": "Th3oSMith",
+        "name": "Rémi Robert",
+        "promo": "2015",
+        "last_update": "2018-07-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6395369,
+          139.6997184
+        ]
+      },
+      "properties": {
+        "pseudo": "horo",
+        "name": "Maxime PRUNEAU",
+        "promo": "2014",
+        "last_update": "2017-01-18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2433284,
+          -97.8478371
+        ]
+      },
+      "properties": {
+        "pseudo": "Ryen",
+        "name": "Remi Chaintreuil",
+        "promo": "2013",
+        "last_update": "2019-02-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4138184,
+          -3.6920454
+        ]
+      },
+      "properties": {
+        "pseudo": "Damdam",
+        "name": "Fabien Schwebel",
+        "promo": "2013",
+        "last_update": "2018-09-25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84133,
+          2.29159
+        ]
+      },
+      "properties": {
+        "pseudo": "VnC",
+        "name": "Vincent Barbaresi",
+        "promo": "2012",
+        "last_update": "2016-09-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.00617,
+          135.72593
+        ]
+      },
+      "properties": {
+        "pseudo": "Lily",
+        "name": "Marc Delorme",
+        "promo": "2012",
+        "last_update": "2016-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.294791,
+          103.836897
+        ]
+      },
+      "properties": {
+        "pseudo": "Zertrin",
+        "name": "Marc Gallet",
+        "promo": "2012",
+        "last_update": "2019-02-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.206591,
+          -1.538067
+        ]
+      },
+      "properties": {
+        "pseudo": "ciblout",
+        "name": "Cyprien Oger",
+        "promo": "2012",
+        "last_update": "2018-10-09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.696,
+          -73.983
+        ]
+      },
+      "properties": {
+        "pseudo": "Remram",
+        "name": "Rémi Rampin",
+        "promo": "2012",
+        "last_update": "2018-07-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.594,
+          7.101
+        ]
+      },
+      "properties": {
+        "pseudo": "Yqnn",
+        "name": "Yann Armelin",
+        "promo": "2011",
+        "last_update": "2020-05-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.750000,
+          4.850000
+        ]
+      },
+      "properties": {
+        "pseudo": "Gagou",
+        "name": "Olivier Gatimel",
+        "promo": "2009",
+        "last_update": "2019-02-10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.25683,
+          -123.15060
+        ]
+      },
+      "properties": {
+        "pseudo": "Phyce",
+        "name": "Philippe Guillebert",
+        "promo": "2006",
+        "last_update": "2016-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.806634,
+          -0.632543
+        ]
+      },
+      "properties": {
+        "pseudo": "guitou",
+        "name": "David Marchand",
+        "promo": "2005",
+        "last_update": "2018-09-22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.659502,
+          -73.645469
+        ]
+      },
+      "properties": {
+        "pseudo": "P.O.",
+        "name": "Pierre-Olivier Gaillard",
+        "promo": "1996",
+        "last_update": "2019-02-25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8588377,
+          2.2770209
+        ]
+      },
+      "properties": {
+        "pseudo": "Garz",
+        "name": "Frédéric Garzon",
+        "promo": "1996",
+        "last_update": "2019-02-25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.295797,
+          5.375253
+        ]
+      },
+      "properties": {
+        "pseudo": "SuperU",
+        "name": "Nicolas Lejeune",
+        "promo": "1996",
+        "last_update": "2019-02-25"
+      }
+    }
+  ]
+}

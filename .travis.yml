@@ -1,5 +1,5 @@
 language: python
 python:
-  - "3.6"
+  - "3.8"
 script:
-  - python3 checkcsv.py map.csv
+  - python3 checkgeojson.py map.geojson
