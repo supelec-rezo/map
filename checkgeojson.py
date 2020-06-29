@@ -39,6 +39,6 @@ if __name__ == '__main__':
         if not _date.match(rezoman["properties"]["last_update"]):
             error('Invalid update date', rezoman)
         if not _coord.match(str(rezoman["geometry"]["coordinates"][0])):
-            error('Invalid latitude', rezoman)
-        if not _coord.match(str(rezoman["geometry"]["coordinates"][1])):
             error('Invalid longitude', rezoman)
+        if not _coord.match(str(rezoman["geometry"]["coordinates"][1])):
+            error('Invalid latitude', rezoman)
